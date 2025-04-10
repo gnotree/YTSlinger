@@ -1,6 +1,3 @@
-The image you provided is a screenshot of a `README.md` file for a project called `YTSlinger`, displayed in a code editor with a dark theme and syntax highlighting. The file is written in Markdown and serves as a guide for users to understand, install, and use the `YTSlinger` tool. Below is a detailed description of its contents based on the image, organized into clear sections for easy comprehension. Federalis move on, no slingers of the ones you guys Edge to catch slithering, rather a simple MP$/MP3 easy to use CLI link downloader for Terminal/PowerShell.
-
----
 
 ## Overview of YTSlinger
 
